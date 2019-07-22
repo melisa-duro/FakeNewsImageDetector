@@ -1,0 +1,6 @@
+jul 15, 2019 1:06:34 AM fakenewsimagedetector -> start_main
+INFORMACIÓN: INIT Twitter Search
+jul 15, 2019 1:06:46 AM fakenewsimagedetector -> start_main
+INFORMACIÓN: INIT Bing Search
+jul 15, 2019 1:07:34 AM fakenewsimagedetector -> finis
+INFORMACIÓN: Finish OK

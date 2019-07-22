@@ -1,0 +1,4 @@
+jul 23, 2019 12:03:45 AM fakenewsimagedetector -> finis
+INFORMACIÓN: Finish OK
+jul 23, 2019 12:03:59 AM fakenewsimagedetector -> finis
+INFORMACIÓN: Finish OK
